@@ -1,3 +1,4 @@
+```java
 import java.util.Scanner;
 
 /**
@@ -20,3 +21,4 @@ public class Day9Recursion {
 		sc.close();
 	}
 }
+```

@@ -38,7 +38,7 @@
 
 # 10 Days of Javascript
 
-| Day |                                                Challenge                                              				  |                                                                                           Solution                                                                                                                              									    |				 	  Video Explaination					   |
+| Day | Challenge | Solution | Video Explaination	|
 |:---:|:---------------------------------------------------------------------------------------------------------------------:|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:------------------------------------------------------------:|
 
 |  0  | [Day0:Hello, World!](https://www.hackerrank.com/challenges/js10-hello-world/problem)                                  				  | [Day0HelloWorld.js](https://github.com/Java-aid/Hackerrank-Solutions/blob/master/HackerRankDashboard/Tutorials/30DaysOfCode/src/main/java/com/javaaid/hackerrank/solutions/thirtydaysofcode/Day0HelloWorld.java)               									    |														       |

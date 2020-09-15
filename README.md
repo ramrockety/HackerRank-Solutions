@@ -1,6 +1,7 @@
 # HackerRank-Solutions
 
 * [30 DAYS OF CODE](#30-days-of-code)
+* [10 Days of Javascript](#10-days-of-javascript)
 
 # 30 DAYS OF CODE
 
@@ -21,4 +22,23 @@
 |  12 | [Inheritance](https://www.hackerrank.com/challenges/30-inheritance/problem)                                           | [Day12Inheritance.java](https://github.com/ramrockety/HackerRank-Solutions/blob/master/HackerRankDashboard/30DaysOfCode/Day12Inheritance.java)                							                        |       											           |
 |  13 | [Abstract Classes](https://www.hackerrank.com/challenges/30-abstract-classes/problem)                                 | [Day13AbstractClasses.java](https://github.com/ramrockety/HackerRank-Solutions/blob/master/HackerRankDashboard/30DaysOfCode/Day13AbstractClasses.java)                							                            |       											           |
 |  14 | [Scope](https://www.hackerrank.com/challenges/30-scope/problem)                                     				  | [Day14Scope.java](https://github.com/ramrockety/HackerRank-Solutions/blob/master/HackerRankDashboard/30DaysOfCode/Day14Scope.java)                							                    |       											           |
-|  15 | [Linked List](https://www.hackerrank.com/challenges/30-linked-list/problem)                                           | [Day15LinkedList.java](https://github.com/ramrockety/HackerRank-Solutions/blob/master/HackerRankDashboard/30DaysOfCode/Day15LinkedList.java)                							        |                                                              |
+|  15 | [Linked List](https://www.hackerrank.com/challenges/30-linked-list/problem)                                           | [Day15LinkedList.java](https://github.com/ramrockety/HackerRank-Solutions/blob/master/HackerRankDashboard/30DaysOfCode/Day15LinkedList.java)                							        |         |
+
+
+
+
+
+
+
+
+
+
+
+
+
+# 10 Days of Javascript
+
+| Day |                                                Challenge                                              				  |                                                                                           Solution                                                                                                                              									    |				 	  Video Explaination					   |
+|:---:|:---------------------------------------------------------------------------------------------------------------------:|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:------------------------------------------------------------:|
+
+|  0  | [Day0:Hello, World!](https://www.hackerrank.com/challenges/js10-hello-world/problem)                                  				  | [Day0HelloWorld.js](https://github.com/Java-aid/Hackerrank-Solutions/blob/master/HackerRankDashboard/Tutorials/30DaysOfCode/src/main/java/com/javaaid/hackerrank/solutions/thirtydaysofcode/Day0HelloWorld.java)               									    |														       |
